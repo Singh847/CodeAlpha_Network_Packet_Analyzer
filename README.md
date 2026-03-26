@@ -14,6 +14,29 @@ It captures packets, inspects protocols, and detects suspicious activity.
 - 🖥️ CLI-based interactive dashboard
 - 🌐 Supports TCP, UDP, ICMP, ARP, IPv4/IPv6
 
+
+
+---
+
+## ✅ Option 2 (BETTER LOOK): Mermaid Diagram (GitHub supports it)
+
+This looks **clean & modern on GitHub** 👇
+
+```markdown
+## 🏗️ Architecture
+
+```mermaid
+flowchart TD
+    A[Network Interface] --> B[Packet Capture (Scapy)]
+    B --> C[Packet Processing]
+    C --> D[Protocol Parsing]
+    C --> E[Deep Packet Inspection]
+    D --> F[Detection Engine]
+    E --> F
+    F --> G[Alerts & Monitoring]
+    G --> H[CLI Output]
+    G --> I[Interactive Dashboard v2]
+
 ---
 
 ## 📁 Project Structure
