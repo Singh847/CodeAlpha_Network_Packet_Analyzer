@@ -122,5 +122,4 @@ MIT License
 
 ## 📬 Contact
 
-Sumeer Singh Rana
 Feel free to connect for collaboration or feedback.
