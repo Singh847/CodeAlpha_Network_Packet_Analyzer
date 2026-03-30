@@ -1,0 +1,6 @@
+CodeAlpha IDS Report
+Generated: 2026-03-29 20:50:30.161824
+Total Alerts: 6
+
+[4x] [CodeAlpha] Metasploit Port
+[2x] [CodeAlpha] DNS Query Monitor
